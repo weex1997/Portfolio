@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<!-- saved from url=(0088)https://yaraqah.atlassian.net/wiki/plugins/viewsource/viewpagesrc.action?pageId=13402113 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>View Source</title>
+        <link rel="canonical" href="https://yaraqah.atlassian.net/wiki/pages/viewpage.action?pageId=$action.page.id">
+        <script>
+window.WRM=window.WRM||{};window.WRM._unparsedData=window.WRM._unparsedData||{};window.WRM._unparsedErrors=window.WRM._unparsedErrors||{};
+WRM._unparsedData["com.atlassian.plugins.atlassian-plugins-webresource-plugin:context-path.context-path"]="\"/wiki\"";
+WRM._unparsedData["com.atlassian.plugins.atlassian-plugins-webresource-rest:curl.cross-origin-resources"]="false";
+if(window.WRM._dataArrived)window.WRM._dataArrived();</script>
+<link type="text/css" rel="stylesheet" nonce="" href="./View Source_files/batch.css" data-wrm-key="_super" data-wrm-batch-type="context" media="all">
+<link type="text/css" rel="stylesheet" nonce="" href="./View Source_files/batch(1).css" data-wrm-key="plugin.viewsource,-_super" data-wrm-batch-type="context" media="all">
+<link type="text/css" rel="stylesheet" nonce="" href="./View Source_files/batch(2).css" data-wrm-key="page,-_super" data-wrm-batch-type="context" media="all">
+<link type="text/css" rel="stylesheet" nonce="" href="./View Source_files/batch(3).css" media="print" data-wrm-key="page,-_super" data-wrm-batch-type="context">
+<link type="text/css" rel="stylesheet" nonce="" href="./View Source_files/batch(4).css" data-wrm-key="editor-content,-_super" data-wrm-batch-type="context" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" nonce="3c575873178841a3a602bf4ade1a3b89" href="//d1e73uzw72uijn.cloudfront.net/yaraqah.atlassian.net/wiki/s/d41d8cd98f00b204e9800998ecf8427e-CDN/-694439548/h/60db05d5f64dadb2759571e951c7f9e4/_/download/contextbatch/css/editor-content,-_super/batch.css?assetVersion=1000.0.0-cf0d1a3312c8&amp;conditionalComment=lte+IE+9&amp;confluence.table.resizable=true&amp;externals=__local-default__&amp;relative-url=true" data-wrm-key="editor-content,-_super" data-wrm-batch-type="context" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" nonce="" href="./View Source_files/com.atlassian.confluence.plugins.confluence-page-layout_pagelayout-content-styles.css" data-wrm-key="com.atlassian.confluence.plugins.confluence-page-layout:pagelayout-content-styles" data-wrm-batch-type="resource" media="all">
+
+    </head>
+
+    <body class="mceContentBody aui-theme-default wiki-content fullsize">
+        <p>&nbsp;</p>         <div class="contentLayout2">
+<div class="columnLayout fixed-width" data-layout="fixed-width">
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+<h1>1- Cows &amp; Bulls - A Challenging Number Guessing Game</h1><p></p></div>
+</div>
+</div>
+<div class="columnLayout two-equal" data-layout="two-equal">
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+<h2>About</h2><p>Cows and Bulls challenge players to decipher a hidden word through deductive reasoning and logical thinking. By strategically using clues in the form of "cows" and "bulls," players must guess the correct number. The game provides an immersive and challenging experience that encourages critical thinking and vocabulary enhancement.</p><p></p></div>
+</div>
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+<h2>Project Info</h2><p>Role: Game Programmer</p><p>Team Size: 2</p><p>Time frame: 3 months</p><p>Engine: Unity (C#)</p><img class="confluence-embedded-image image-center" alt="testflight-2023-05-19.png" width="128" loading="lazy" src="./View Source_files/testflight-2023-05-19.png" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/testflight-2023-05-19.png?version=1&amp;modificationDate=1706381956918&amp;cacheVersion=1&amp;api=v2" data-height="512" data-width="512" data-unresolved-comment-count="0" data-linked-resource-id="13402203" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="testflight-2023-05-19.png" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="27961896-3f79-4fe4-8127-54de968cd37e" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; testflight-2023-05-19.png" data-location="Cows And Bulls &gt; Portfolio &gt; testflight-2023-05-19.png" data-image-height="512" data-image-width="512"></div>
+</div>
+</div>
+<div class="columnLayout fixed-width" data-layout="fixed-width">
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+<img class="confluence-embedded-image image-center" alt="f11805456d9f3d08.png" width="559" loading="lazy" src="./View Source_files/f11805456d9f3d08.png" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/f11805456d9f3d08.png?version=1&amp;modificationDate=1706378153435&amp;cacheVersion=1&amp;api=v2" data-height="559" data-width="559" data-unresolved-comment-count="0" data-linked-resource-id="13467701" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="f11805456d9f3d08.png" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="52331637-9c16-4f5c-8235-d7b5a42277bf" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; f11805456d9f3d08.png" data-location="Cows And Bulls &gt; Portfolio &gt; f11805456d9f3d08.png" data-image-height="1280" data-image-width="1280"><h2>Introduction:</h2><p>Cows and Bulls is a captivating word-guessing game that I developed as a personal project, showcasing my skills in game development, and design. Cows and Bulls offers a fun and intellectually stimulating gameplay experience. The primary objective of the project stemmed from my friend's passion for the game and their request for me to develop it. In this project, I aimed to create a unique approach for displaying cows and bulls results. I came up with the idea of using an invoice machine to showcase the outcomes. I envisioned the invoice machine printing the cows and bulls results, and to my delight, it worked successfully.</p><h2>Main Mechanics:</h2><p>The game relies on generating four numbers within the range of 0 to 9, The numbers should have unique digits, meaning each digit should be different from the other.</p><p>To determine whether there is a cow or a bull, I require knowledge of the number's position. A cow indicates that the number is present among the hidden numbers, but its location is incorrect. On the other hand, a bull signifies that the number is both correct and in the correct position.</p><p>code - Generate a Secret Numbers</p><table class="wysiwyg-macro" data-macro-name="code" data-macro-id="8008a4de-050b-4447-a28c-920a89fe013f" data-macro-parameters="language=c#" data-macro-schema-version="1" style="background-image: url(https://yaraqah.atlassian.net/wiki/plugins/servlet/confluence/placeholder/macro-heading?definition=e2NvZGU6bGFuZ3VhZ2U9YyN9&amp;locale=en_US&amp;version=2); background-repeat: no-repeat;" data-macro-body-type="PLAIN_TEXT"><tbody><tr><td class="wysiwyg-macro-body"><pre>//cows &amp; bulls genarate random numbers
+public void randomNumbers()
+{
+    for (int j = 0; j &lt; Lenght; j++)
+    {
+        Rand = Random.Range(0, 9); // give a random numbers
+        while (list.Contains(Rand)) // check if the list have the number
+        {
+            Rand = Random.Range(0, 9); //if have it change to another
+        }
+        list.Add(Rand); //add to the list
+        Debug.Log(list[j]);
+
+    }
+}</pre></td></tr></tbody></table><p>code - Check Cows and Bulls</p><table class="wysiwyg-macro" data-macro-name="code" data-macro-id="5fd47037-ab9a-4d85-91f3-64aedc916da9" data-macro-parameters="language=c#" data-macro-schema-version="1" style="background-image: url(https://yaraqah.atlassian.net/wiki/plugins/servlet/confluence/placeholder/macro-heading?definition=e2NvZGU6bGFuZ3VhZ2U9YyN9&amp;locale=en_US&amp;version=2); background-repeat: no-repeat;" data-macro-body-type="PLAIN_TEXT"><tbody><tr><td class="wysiwyg-macro-body"><pre> //how many cows and bulls
+ for (int x = 0; x &lt; Lenght; x++)
+ {
+     if (list[x] == System.Convert.ToInt32(keyboard.input[x].text))
+     {
+         bulls++;
+     }
+     else if (list.Contains(System.Convert.ToInt32(keyboard.input[x].text)))
+     {
+         cows++;
+     }
+ }</pre></td></tr></tbody></table><h2>High Score API:</h2><img class="confluence-embedded-image image-wrap-left" alt="Screenshot 2024-01-27 220254.png" width="264" loading="lazy" src="./View Source_files/Screenshot 2024-01-27 220254.png" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/Screenshot%202024-01-27%20220254.png?version=2&amp;modificationDate=1706382317163&amp;cacheVersion=1&amp;api=v2" data-height="906" data-width="511" data-unresolved-comment-count="0" data-linked-resource-id="13402214" data-linked-resource-version="2" data-linked-resource-type="attachment" data-linked-resource-default-alias="Screenshot 2024-01-27 220254.png" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="3066a9a5-047f-492e-8672-ff8d776c9e2f" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; Screenshot 2024-01-27 220254.png" data-location="Cows And Bulls &gt; Portfolio &gt; Screenshot 2024-01-27 220254.png" data-image-height="1208" data-image-width="681"><img class="confluence-embedded-image image-wrap-left" alt="Screenshot 2024-01-27 220106.png" width="262" loading="lazy" src="./View Source_files/Screenshot 2024-01-27 220106.png" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/Screenshot%202024-01-27%20220106.png?version=2&amp;modificationDate=1706382317362&amp;cacheVersion=1&amp;api=v2" data-height="907" data-width="509" data-unresolved-comment-count="0" data-linked-resource-id="13467735" data-linked-resource-version="2" data-linked-resource-type="attachment" data-linked-resource-default-alias="Screenshot 2024-01-27 220106.png" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="434e18f3-bc24-43de-a84e-bc71c6bad182" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; Screenshot 2024-01-27 220106.png" data-location="Cows And Bulls &gt; Portfolio &gt; Screenshot 2024-01-27 220106.png" data-image-height="1209" data-image-width="678"><p><em>The end result of the UI, both for saving player name and displaying the high score list.</em></p><p>I utilized the PlayFab API to implement a feature where player names and their high-score data could be saved. Following the completion of the server setup, I incorporated a service manager into Unity, enabling the transmission of requests to the server. This functionality facilitated the storage of match-high scores and the presentation of a comparative list of top scores. Additionally, I added some details that allow players to select random names.</p><h2>Share The Result On Social Media:</h2><img class="confluence-embedded-image image-left" alt="photo_2024-01-27_22-12-28.jpg" width="284" loading="lazy" src="./View Source_files/photo_2024-01-27_22-12-28.jpg" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/photo_2024-01-27_22-12-28.jpg?version=1&amp;modificationDate=1706382772025&amp;cacheVersion=1&amp;api=v2" data-height="1115" data-width="800" data-unresolved-comment-count="0" data-linked-resource-id="13467761" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="photo_2024-01-27_22-12-28.jpg" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/jpeg" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="bf7b2919-9f28-4171-9c8b-5ba1a39d1a88" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; photo_2024-01-27_22-12-28.jpg" data-location="Cows And Bulls &gt; Portfolio &gt; photo_2024-01-27_22-12-28.jpg" data-image-height="1115" data-image-width="800"><p>To enhance the game's interactivity, I Added a feature that enables players to share their results on social media platforms. To facilitate this, I devised a mechanism to capture the entire guessing process, including the results and the player's progress. By creating copies of all the results and combining them into a single camera view for screenshots, I enabled players to include their progress alongside a shared message when posting on social media.</p><table class="wysiwyg-macro" data-macro-name="code" data-macro-id="8020d409-525e-44c8-abec-bfd95b129a19" data-macro-parameters="language=c#" data-macro-schema-version="1" style="background-image: url(https://yaraqah.atlassian.net/wiki/plugins/servlet/confluence/placeholder/macro-heading?definition=e2NvZGU6bGFuZ3VhZ2U9YyN9&amp;locale=en_US&amp;version=2); background-repeat: no-repeat;" data-macro-body-type="PLAIN_TEXT"><tbody><tr><td class="wysiwyg-macro-body"><pre>private IEnumerator TakeScreenshotAndShare()
+{
+    yield return new WaitForEndOfFrame();
+
+    // The Render Texture in RenderTexture.active is the one
+    // that will be read by ReadPixels.
+    var currentRT = RenderTexture.active;
+    RenderTexture.active = _camera.targetTexture;
+
+    // Render the camera's view.
+    _camera.Render();
+
+    Texture2D ss = new Texture2D(_camera.targetTexture.width, _camera.targetTexture.height, TextureFormat.RGB24, false);
+    ss.ReadPixels(new Rect(0, 0, Screen.width, Screen.height), 0, 0);
+    ss.Apply();
+
+    string filePath = Path.Combine(Application.temporaryCachePath, "shared img.png");
+    File.WriteAllBytes(filePath, ss.EncodeToPNG());
+
+    // To avoid memory leaks
+    Destroy(ss);
+
+    new NativeShare().AddFile(filePath)
+        .SetSubject("Cows &amp; Bulls").SetText(RandomText() + " #CowsAndBulls").SetUrl("https://discord.gg/zejRR9S6gs")
+        .SetCallback((result, shareTarget) =&gt; Debug.Log("Share result: " + result + ", selected app: " + shareTarget))
+        .Share();
+
+    // Share on WhatsApp only, if installed (Android only)
+    //if( NativeShare.TargetExists( "com.whatsapp" ) )
+    //	new NativeShare().AddFile( filePath ).AddTarget( "com.whatsapp" ).Share();
+}</pre></td></tr></tbody></table><h2>Some Datils:</h2><img class="confluence-embedded-image image-left" alt="Untitled video - Made with Clipchamp (5).gif" width="501" loading="lazy" src="./View Source_files/Untitled video - Made with Clipchamp (5).gif" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/Untitled%20video%20-%20Made%20with%20Clipchamp%20(5).gif?version=1&amp;modificationDate=1706385223574&amp;cacheVersion=1&amp;api=v2" data-height="240" data-width="426" data-unresolved-comment-count="0" data-linked-resource-id="13467795" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="Untitled video - Made with Clipchamp (5).gif" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/gif" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="95ce8b5e-f267-4d2e-a1f4-79001f4fae1d" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; Untitled video - Made with Clipchamp (5).gif" data-location="Cows And Bulls &gt; Portfolio &gt; Untitled video - Made with Clipchamp (5).gif" data-image-height="240" data-image-width="426"><h2>What I learned:</h2><p></p><hr><p></p><h1>1- Jaber Chem</h1><p></p></div>
+</div>
+</div>
+<div class="columnLayout two-equal" data-layout="two-equal">
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+<h2>About</h2><p>Jaber Chem is an interactive and educational game that aims to make the study of chemistry a fun and captivating experience for students. This game incorporates various engaging mini-games to enhance the learning process.</p><p></p></div>
+</div>
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+<h2>Project Info</h2><p>Role: Game Programmer</p><p>Team Size: 8</p><p>Time frame: 2 week</p><p>Engine: Unity (C#)</p><p>Video:</p></div>
+</div>
+</div>
+<div class="columnLayout fixed-width" data-layout="fixed-width">
+<div class="cell normal" data-type="normal">
+<div class="innerCell">
+<h2>Introduction:</h2><p>During my time at Gamfire, I devoted my efforts to a Jaber chem project that involved the creation of an Electron Configuration Game. This game drew inspiration from WarioWare, Inc.: Mega Microgames! 2003. My main focus throughout the project was to develop and successfully implement the game. </p><img class="confluence-embedded-image image-wrap-left" alt="Untitled video - Made with Clipchamp (6).gif" width="413" loading="lazy" src="./View Source_files/Untitled video - Made with Clipchamp (6).gif" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/Untitled%20video%20-%20Made%20with%20Clipchamp%20(6).gif?version=1&amp;modificationDate=1706391875782&amp;cacheVersion=1&amp;api=v2" data-height="240" data-width="426" data-unresolved-comment-count="0" data-linked-resource-id="13369489" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="Untitled video - Made with Clipchamp (6).gif" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/gif" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="0689fc75-eb67-4e3a-9e42-528bbd78e6b7" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; Untitled video - Made with Clipchamp (6).gif" data-location="Cows And Bulls &gt; Portfolio &gt; Untitled video - Made with Clipchamp (6).gif" data-image-height="240" data-image-width="426"><img class="confluence-embedded-image image-wrap-right" alt="unnamed.png" width="232" loading="lazy" src="./View Source_files/unnamed.png" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/unnamed.png?version=3&amp;modificationDate=1706393361788&amp;cacheVersion=1&amp;api=v2" data-height="300" data-width="300" data-unresolved-comment-count="0" data-linked-resource-id="13369510" data-linked-resource-version="3" data-linked-resource-type="attachment" data-linked-resource-default-alias="unnamed.png" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="9786e75c-dd11-401e-ba18-de24e849a3ef" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; unnamed.png" data-location="Cows And Bulls &gt; Portfolio &gt; unnamed.png" data-image-height="300" data-image-width="300"><p></p><h2>Number of electrons in each shell</h2><p>The number of electrons in each shell follows a pattern based on the quantum mechanical model of the atom. The maximum number of electrons that can occupy a particular shell is given by the formula 2<em>n</em><sup>2</sup>, where "<em>n</em>" represents the shell number.</p><p>Here's a summary of the number of electrons in each shell:</p><ul><li><p>Shell K (<em>n</em> = 1): Maximum 2 electrons</p></li><li><p>Shell L (<em>n</em> = 2): Maximum 8 electrons</p></li><li><p>Shell M (<em>n</em> = 3): Maximum 18 electrons</p></li><li><p>Shell N (<em>n</em> = 4): Maximum 32 electrons</p></li><li><p>Shell O (<em>n</em> = 5): Maximum 50 electrons</p></li><li><p>Shell P (<em>n</em> = 6): Maximum 72 electrons</p></li></ul><p>I devised a calculation to distribute electrons in a circular pattern. Considering that a complete circle consists of 360 degrees, I divided this value by the number of electrons in the shell. This allowed me to spawn an electron point for each segment determined by the calculation.</p><img class="confluence-embedded-image image-center" alt="White Blue Modern Pie Chart Graph.png" width="599" loading="lazy" src="./View Source_files/White Blue Modern Pie Chart Graph.png" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/White%20Blue%20Modern%20Pie%20Chart%20Graph.png?version=1&amp;modificationDate=1706399270351&amp;cacheVersion=1&amp;api=v2" data-height="576" data-width="768" data-unresolved-comment-count="0" data-linked-resource-id="13369564" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="White Blue Modern Pie Chart Graph.png" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="2e7bd850-6c2c-410a-b773-b5e248022801" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; White Blue Modern Pie Chart Graph.png" data-location="Cows And Bulls &gt; Portfolio &gt; White Blue Modern Pie Chart Graph.png" data-image-height="768" data-image-width="1024"><img class="confluence-embedded-image image-center" alt="image-20240128-051135.png" width="330" loading="lazy" src="./View Source_files/image-20240128-051135.png" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/image-20240128-051135.png?version=1&amp;modificationDate=1706418699367&amp;cacheVersion=1&amp;api=v2" data-height="978" data-width="1219" data-unresolved-comment-count="0" data-linked-resource-id="13402470" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="image-20240128-051135.png" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="9bf6b773-a6f6-452d-bbf6-d366ff7185b6" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; image-20240128-051135.png" data-location="Cows And Bulls &gt; Portfolio &gt; image-20240128-051135.png" data-image-height="978" data-image-width="1219"><p>code - Electrons Spawner</p><table class="wysiwyg-macro" data-macro-name="code" data-macro-id="330b3243-d07c-403a-a732-c3103169a005" data-macro-parameters="language=c#" data-macro-schema-version="1" style="background-image: url(https://yaraqah.atlassian.net/wiki/plugins/servlet/confluence/placeholder/macro-heading?definition=e2NvZGU6bGFuZ3VhZ2U9YyN9&amp;locale=en_US&amp;version=2); background-repeat: no-repeat;" data-macro-body-type="PLAIN_TEXT"><tbody><tr><td class="wysiwyg-macro-body"><pre> public void Spawner()
+ {
+
+     float Angle = 360.0f / electronNumbers;
+     float radius = 1.5f;
+
+     for (float i = 0; i &lt; 360; i+= Angle)
+     {
+
+         Vector2 spawnPosition;
+
+         spawnPosition.x = (radius * Mathf.Cos(i * Mathf.Deg2Rad)) + midillAtom.position.x;
+         spawnPosition.y = (radius * Mathf.Sin(i * Mathf.Deg2Rad)) + midillAtom.position.y;
+
+         GameObject electronPostion = Instantiate(electronPrefab, spawnPosition, Quaternion.identity);
+         electronPostion.transform.SetParent(midillAtom);
+
+     }
+
+ }</pre></td></tr></tbody></table><h2>Orbital Notation:</h2><p>To represent the orbital notation, it is necessary to have knowledge of the principal energy level (shell), the specific subshell (s, p, d, f), and the maximum number of electrons that can occupy each subshell.</p><img class="confluence-embedded-image image-wrap-left" alt="7363e220-6f7b-4f90-94a3-a505b9a13a5c-1658749759354016.png" width="341" loading="lazy" src="./View Source_files/7363e220-6f7b-4f90-94a3-a505b9a13a5c-1658749759354016.png" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/7363e220-6f7b-4f90-94a3-a505b9a13a5c-1658749759354016.png?version=2&amp;modificationDate=1706411265746&amp;cacheVersion=1&amp;api=v2" data-height="506" data-width="940" data-unresolved-comment-count="0" data-linked-resource-id="13369643" data-linked-resource-version="2" data-linked-resource-type="attachment" data-linked-resource-default-alias="7363e220-6f7b-4f90-94a3-a505b9a13a5c-1658749759354016.png" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/png" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="3d094b4a-be4e-44d2-b8dd-8b7ec48b4003" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; 7363e220-6f7b-4f90-94a3-a505b9a13a5c-1658749759354016.png" data-location="Cows And Bulls &gt; Portfolio &gt; 7363e220-6f7b-4f90-94a3-a505b9a13a5c-1658749759354016.png" data-image-height="506" data-image-width="940"><img class="confluence-embedded-image image-wrap-right" alt="1522190_569352_ans_4712394340c6455aa553633fcd6789dc.jpeg" width="347" loading="lazy" src="./View Source_files/1522190_569352_ans_4712394340c6455aa553633fcd6789dc.jpeg" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/1522190_569352_ans_4712394340c6455aa553633fcd6789dc.jpeg?version=2&amp;modificationDate=1706411265721&amp;cacheVersion=1&amp;api=v2" data-height="165" data-width="459" data-unresolved-comment-count="0" data-linked-resource-id="13369649" data-linked-resource-version="2" data-linked-resource-type="attachment" data-linked-resource-default-alias="1522190_569352_ans_4712394340c6455aa553633fcd6789dc.jpeg" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/jpeg" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="c5b2604f-e9d9-46f3-943f-51f552887ddf" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; 1522190_569352_ans_4712394340c6455aa553633fcd6789dc.jpeg" data-location="Cows And Bulls &gt; Portfolio &gt; 1522190_569352_ans_4712394340c6455aa553633fcd6789dc.jpeg" data-image-height="165" data-image-width="459"><img class="confluence-embedded-image image-center" alt="Untitled video - Made with Clipchamp (9).gif" width="240" loading="lazy" src="./View Source_files/Untitled video - Made with Clipchamp (9).gif" data-image-src="https://yaraqah.atlassian.net/wiki/download/attachments/13402113/Untitled%20video%20-%20Made%20with%20Clipchamp%20(9).gif?version=1&amp;modificationDate=1706418241093&amp;cacheVersion=1&amp;api=v2" data-height="240" data-width="240" data-unresolved-comment-count="0" data-linked-resource-id="13435200" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="Untitled video - Made with Clipchamp (9).gif" data-base-url="https://yaraqah.atlassian.net/wiki" data-linked-resource-content-type="image/gif" data-linked-resource-container-id="13402113" data-linked-resource-container-version="3" data-media-id="cb9ffb87-07c4-4524-9b11-bd0aa6fd28de" data-media-type="file" title="Cows And Bulls &gt; Portfolio &gt; Untitled video - Made with Clipchamp (9).gif" data-location="Cows And Bulls &gt; Portfolio &gt; Untitled video - Made with Clipchamp (9).gif" data-image-height="240" data-image-width="240"><p>I have created a sample calculation to automatically generate the orbital notation for each shell.</p><p>code - UIText</p><table class="wysiwyg-macro" data-macro-name="code" data-macro-id="eec3ccd4-fbf7-405b-bab0-0c787cda443c" data-macro-parameters="language=c#" data-macro-schema-version="1" style="background-image: url(https://yaraqah.atlassian.net/wiki/plugins/servlet/confluence/placeholder/macro-heading?definition=e2NvZGU6bGFuZ3VhZ2U9YyN9&amp;locale=en_US&amp;version=2); background-repeat: no-repeat;" data-macro-body-type="PLAIN_TEXT"><tbody><tr><td class="wysiwyg-macro-body"><pre>public void orbitalNotation()
+{
+    int shell = ElectronConfigurationController.Instance.shellNumber +1;
+    int electronsInShell = ElectronConfigurationController.Instance.ElectronsInShell;
+    int maxSubshellElectron;
+    int currentElectrons;
+    string subshellName;
+
+    if (electronsInShell &gt;= 1)
+    {
+        maxSubshellElectron = 2;
+        subshellName = "s";
+
+        if (electronsInShell&gt;= maxSubshellElectron)
+        {
+            currentElectrons = maxSubshellElectron;
+        }
+        else
+        {
+            currentElectrons = electronsInShell;
+        }
+
+        switch (shell)
+        {
+            case 0:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 1:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 2:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 3:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 4:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+
+        }
+    }
+
+    if (electronsInShell &gt; 2)
+    {
+        electronsInShell -= 2; //minus the previous subshell max electron
+        maxSubshellElectron = 6;
+        subshellName = "p";
+
+        if (electronsInShell &gt;= maxSubshellElectron)
+        {
+            currentElectrons = maxSubshellElectron;
+        }
+        else
+        {
+            currentElectrons = electronsInShell;
+        }
+
+        switch (shell)
+        {
+            case 0:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 1:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 2:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 3:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 4:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+
+        }
+    }
+
+    if (electronsInShell &gt; 8)
+    {
+        electronsInShell -= 6; //minus the previous subshell max electron
+        maxSubshellElectron = 10;
+        subshellName = "d";
+
+        if (electronsInShell &gt;= maxSubshellElectron)
+        {
+            currentElectrons = maxSubshellElectron;
+        }
+        else
+        {
+            currentElectrons = electronsInShell;
+        }
+
+        switch (shell)
+        {
+            case 0:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 1:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 2:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 3:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 4:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+
+        }
+    }
+    if (electronsInShell &gt; 18)
+    {
+        electronsInShell -= 10; //minus the previous subshell max electron
+        maxSubshellElectron = 14;
+        subshellName = "f";
+
+        if (electronsInShell &gt;= maxSubshellElectron)
+        {
+            currentElectrons = maxSubshellElectron;
+        }
+        else
+        {
+            currentElectrons = electronsInShell;
+        }
+
+        switch (shell)
+        {
+            case 0:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 1:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 2:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 3:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 4:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+
+        }
+    }
+    if (electronsInShell &gt; 32)
+    {
+        electronsInShell -= 14; //minus the previous subshell max electron
+        maxSubshellElectron = 18;
+        subshellName = "g";
+
+        if (electronsInShell &gt;= maxSubshellElectron)
+        {
+            currentElectrons = maxSubshellElectron;
+        }
+        else
+        {
+            currentElectrons = electronsInShell;
+        }
+
+        switch (shell)
+        {
+            case 0:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 1:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 2:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 3:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+            case 4:
+                subshell.text += " " + shell + subshellName + "&lt;sup&gt;" + currentElectrons + "&lt;/sup&gt;";
+                break;
+
+        }
+    }
+
+}</pre></td></tr></tbody></table><h2>What I learned:</h2></div>
+</div>
+</div>
+</div>
+        <p>&nbsp;</p>
+    
+
+</body></html>
